@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WebDAV Browser"
+  },
+  "extensionDescription": {
+    "message": "Browse a URL as a WebDAV share"
+  }
+}

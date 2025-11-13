@@ -1,0 +1,12 @@
+{
+  "version": {
+    "custom_license": {
+      "name": {
+        "en-US": "Mozilla Public License 2.0"
+      },
+      "text": {
+        "en-US": "Mozilla Public License 2.0. Full text: https://www.mozilla.org/MPL/2.0/"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+# Segredos e Chaves de API
+GITHUB_TOKEN.txt
+AMO_API_KEY.txt
+AMO_API_SECRET.txt
+
+# Artefatos de build do Firefox/Web-ext
+*.xpi
+.amo-upload-uuid

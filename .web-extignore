@@ -1,0 +1,16 @@
+.git/
+.github/
+.web-ext-artifacts/
+.web-ext-ignore
+.webextignore
+GITHUB_TOKEN
+GITHUB_TOKEN.txt
+AMO_API_KEY
+AMO_API_KEY.txt
+AMO_API_SECRET
+AMO_API_SECRET.txt
+create_firefox-amo_push_github.sh
+install-addon-policy.sh
+updates.json
+README.md
+screenshots/
