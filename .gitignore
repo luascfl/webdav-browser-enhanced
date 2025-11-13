@@ -6,3 +6,6 @@ AMO_API_SECRET.txt
 # Artefatos de build do Firefox/Web-ext
 *.xpi
 .amo-upload-uuid
+
+GITHUB_TOKEN
+*API*
