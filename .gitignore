@@ -1,11 +1,13 @@
-# Segredos e Chaves de API
-GITHUB_TOKEN.txt
-AMO_API_KEY.txt
-AMO_API_SECRET.txt
-
-# Artefatos de build do Firefox/Web-ext
-*.xpi
-.amo-upload-uuid
+.env
+*.env.local
+*.env.development
+*.env.production
 
 GITHUB_TOKEN
+GITHUB_TOKEN.txt
 *API*
+AMO_API_KEY.txt
+AMO_API_SECRET.txt
+__pycache__/
+*.pyc
+create_and_push_repo.sh
