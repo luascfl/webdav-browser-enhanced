@@ -11,3 +11,8 @@ AMO_API_SECRET.txt
 __pycache__/
 *.pyc
 create_and_push_repo.sh
+.eslintcache/
+node_modules/
+dist/
+build/
+*.zip
