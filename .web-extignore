@@ -14,3 +14,8 @@ install-addon-policy.sh
 updates.json
 README.md
 screenshots/
+create_and_push_repo.sh
+.env
+*.env
+.env.*
+*.sh

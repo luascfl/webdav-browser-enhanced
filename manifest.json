@@ -21,7 +21,6 @@
     "https://*/*"
   ],
   "background": {
-    "service_worker": "background.js",
     "scripts": [
       "background.js"
     ]
@@ -33,7 +32,14 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "webdav-browser@luascfl",
-      "strict_min_version": "113.0"
+      "strict_min_version": "113.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ],
+        "optional": [],
+        "has_previous_consent": false
+      }
     }
   },
   "default_locale": "en"
