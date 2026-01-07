@@ -19,3 +19,7 @@ create_and_push_repo.sh
 *.env
 .env.*
 *.sh
+AMO_API_SECRET,
+AMO_API_SECRET.txt,
+gemini-gcloud-key.json,
+create_and_push_repo.sh,

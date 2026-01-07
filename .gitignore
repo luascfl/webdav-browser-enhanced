@@ -17,3 +17,8 @@ dist/
 build/
 *.zip
 .gemini
+GITHUB_TOKEN.txt,
+AMO_API_KEY.txt,
+AMO_API_SECRET.txt,
+gemini-gcloud-key.json,
+*API*,
